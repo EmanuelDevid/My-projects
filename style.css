@@ -1,0 +1,18 @@
+.background{
+    background-color: rgba(251, 255, 0, 0.664);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    color: #3d4747;
+}
+
+.titulos{
+    color: #b41919;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    font-style: normal;
+}
+
+.direitos{
+    color: #b41919;
+}
